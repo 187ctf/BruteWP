@@ -39,18 +39,15 @@ This tool is intended for **authorized security testing only**. Users are respon
 ## 📖 Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/187ctf/wp-ultra-brute.git
-cd wp-ultra-brute
+git clone https://github.com/187ctf/BruteWP.git
+cd BruteWP
 
 # Install dependencies
-pip3 install requests
+pip3 install -r requirements.txt
 
 # GUI version
-python3 wp_brute_gui.py
+python3 bruteWP.py
 
-# CLI version
-python3 wp_ultra_brute_187ctf.py -u https://target.com -l admin -P wordlist.txt -t 150
-```
 
 ## 🏆 Performance
 
