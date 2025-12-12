@@ -96,6 +96,5 @@ bug-bounty
 wordpress-security
 ```
 
-## 📋 Description courte pour le repo (280 caractères max)
 ```
 ⚡ WordPress Ultra-Fast Brute Forcer - High-performance multi-threaded authentication testing tool with modern GUI. Supports 500+ concurrent threads. Perfect for pentesting, CTF & security audits. CLI + GUI versions. Educational purposes only.
