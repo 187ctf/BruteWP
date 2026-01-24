@@ -74,27 +74,5 @@ If you find this tool useful, please consider giving it a star!
 **For educational and authorized testing purposes only**
 ```
 
-## 🏷️ Tags/Topics pour GitHub
-```
-wordpress
-brute-force
-penetration-testing
-security
-hacking-tool
-ctf
-password-cracking
-tkinter
-python3
-multi-threading
-cybersecurity
-infosec
-red-team
-security-tools
-authentication
-ethical-hacking
-bug-bounty
-wordpress-security
-```
 
-```
 ⚡ WordPress Ultra-Fast Brute Forcer - High-performance multi-threaded authentication testing tool with modern GUI. Supports 500+ concurrent threads. Perfect for pentesting, CTF & security audits. CLI + GUI versions. Educational purposes only.
